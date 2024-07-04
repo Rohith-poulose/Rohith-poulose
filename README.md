@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith-poulose" alt="rohith-poulose" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_rohith_poulose" target="blank"><img src="https://img.shields.io/twitter/follow/_rohith_poulose?logo=twitter&style=for-the-badge" alt="_rohith_poulose" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_rohith_poulose" target="blank"><img src="https://img.shields.io/twitter/follow/rohith_poulose?logo=twitter&style=for-the-badge" alt="rohith_poulose" /></a> </p>
 
 - 🔭 I’m currently working on **personal websites**
 
