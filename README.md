@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith-poulose" alt="rohith-poulose" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_rohith_poulose" target="blank"><img src="https://img.shields.io/twitter/follow/rohith_poulose?logo=twitter&style=for-the-badge" alt="rohith_poulose" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rohith_poulose" target="blank"><img src="https://img.shields.io/twitter/follow/rohith_poulose?logo=twitter&style=for-the-badge" alt="rohith_poulose" /></a> </p>
 
 - 🔭 I’m currently working on **personal websites**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_rohith_poulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rohith_poulose" height="30" width="40" /></a>
+<a href="https://twitter.com/rohith_poulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rohith_poulose" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100082582630498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100082582630498" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_rohith_poulose_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_rohith_poulose_/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/rohith_poulose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/rohith_poulose" height="30" width="40" /></a>
